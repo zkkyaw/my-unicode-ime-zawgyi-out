@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Myanmar Unicode IME with Zawgyi post request",
+  "description": "Inject Chromium Input Method Editor for Myanmar language and convert to Zawgyi encoding on HTTP POST request.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "logo.png",
+    "default_popup": "popup.html",
+    "default_title": "Use in this page"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}

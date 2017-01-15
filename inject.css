@@ -1,5 +1,6 @@
 .ut-link {
     display: inline-block;
+    margin-left: 4px;
     padding-left: 4px;
     padding-right: 4px;
     background-color: white;

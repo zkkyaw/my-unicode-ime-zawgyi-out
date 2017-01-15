@@ -1,0 +1,13 @@
+.ut-link {
+    display: inline-block;
+    padding-left: 8px;
+}
+
+.ut-link A {
+    color: #900756;
+    font-weight: normal;
+}
+
+.ut-link A:hover {
+    color: white;
+}

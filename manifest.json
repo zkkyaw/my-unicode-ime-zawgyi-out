@@ -9,6 +9,7 @@
   "content_scripts": [
     {
       "matches": ["https://www.facebook.com/*"],
+      "css": ["inject.css"],
       "js": ["uni512zg1.js", "zg12uni51.js", "inject.js"]
     }
   ],
